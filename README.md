@@ -1,12 +1,9 @@
 <br clear="both">
 
 <p align="left">Hi 👋 ! My name is Vikram and i am a SDE Frontend from India!</p>
+</br>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/C4E03AQEey2mQGw7YKQ/profile-displayphoto-shrink_200_200/0/1613884691402?e=2147483647&v=beta&t=Av93KM3URogFi-VoQlgWwsbLZIpX-jsL8XIEuSg71HM"  />
-</div>
 
 ###
 
