@@ -52,8 +52,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/imvikramjagtap/imvikramjagtap/output/snake.svg" alt="Snake animation" />
-
-###
