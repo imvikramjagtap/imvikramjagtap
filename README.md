@@ -25,7 +25,7 @@
 
 ## Featured projects
 
-- **Finvik** — Daily budget tracker for expenses against Need, Want, and Saving budgets, with weekly and monthly views. [Live](https://finvik.vikramjagtap.dev/) · [Repo](https://github.com/imvikramjagtap/finvik)
+- **Finvik** — Daily budget tracker for expenses against Need, Want, and Saving budgets, with weekly and monthly views. [Ankur Warikoo's reply](https://x.com/warikoo/status/2067768366056820919) brought it ~15 daily active users. [Live](https://finvik.vikramjagtap.dev/) · [Repo](https://github.com/imvikramjagtap/finvik)
 - **Hotel Bansuri** — Site for Kashvee's Bansuri Hotel, a pure-veg garden restaurant near Shirdi, in English and Marathi. [Live](https://hotel-bansuri.vercel.app) · [Repo](https://github.com/imvikramjagtap/hotelBansuri)
 - **VikFit** — Diet tracker for logging meals, calories, and protein through the day, with weight history and charts. [Repo](https://github.com/imvikramjagtap/vikFit)
 - **Portfolio** — Personal site. [Live](https://www.vikramjagtap.dev)
