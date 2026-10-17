@@ -1,130 +1,46 @@
-<h1 align="center">Hi 👋, I'm Vikram</h1>
-<h3 align="center">A passionate frontend developer</h3>
+# Vikram Jagtap
 
- 🌱 I’m currently learning **GoLang** <br/> 👨‍💻  All of my projects are available at
-[vikramjagtap.dev](vikramjagtap.dev) <br />📫 How to reach me
-**imvikramjagtap@gmail.com**
+**Senior Software Engineer (Frontend)** at IntelligentDX · Pune, India
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://twitter.com/imvikramj" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="imvikramj"
-      height="30"
-      width="40"
-  /></a>
-  <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/imvikramjagtap/"
-    target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/imvikramjagtap/"
-      height="30"
-      width="40"
-  /></a>
+4+ years building high-traffic, user-facing web apps; React, TypeScript and modern frontend architecture, with a focus on performance, state management and clean UI flows.
+
+<p>
+  <a href="https://www.vikramjagtap.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/imvikramjagtap/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>
+  &nbsp;
+  <a href="https://x.com/imvikramj"><img alt="X" src="https://img.shields.io/badge/X-475569?style=for-the-badge&amp;logo=x&amp;logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:imvikramjagtap@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+  &nbsp;
+  <a href="https://drive.google.com/file/d/1J-HcgM1ozqDlBfPHIlPc2wtMK8lArrVj/view?usp=drive_link"><img alt="Resume" src="https://img.shields.io/badge/Resume-1A73E8?style=for-the-badge&amp;logo=googledrive&amp;logoColor=white" /></a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
+## What I do
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
+- Led frontend development across healthcare products (a scheduling platform, a rules engine, and an EHR) and designed reusable component systems and frontend architecture.
+- Delivered a scheduling MVP end-to-end in 7 days.
+- Optimised performance for large datasets with memoization, virtualization, and lazy loading.
+- Modernised legacy React codebases to TypeScript.
 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-      alt="go"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg"
-      alt="ifttt"
-      width="40"
-      height="40"
-    />
-  </a>
+## Featured projects
+
+- **Finvik** — Daily budget tracker for expenses against Need, Want, and Saving budgets, with weekly and monthly views. [Live](https://finvik.vikramjagtap.dev/) · [Repo](https://github.com/imvikramjagtap/finvik)
+- **Hotel Bansuri** — Site for Kashvee's Bansuri Hotel, a pure-veg garden restaurant near Shirdi, in English and Marathi. [Live](https://hotel-bansuri.vercel.app) · [Repo](https://github.com/imvikramjagtap/hotelBansuri)
+- **VikFit** — Diet tracker for logging meals, calories, and protein through the day, with weight history and charts. [Repo](https://github.com/imvikramjagtap/vikFit)
+- **Portfolio** — Personal site. [Live](https://www.vikramjagtap.dev)
+
+## Tech stack
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-087EA4?style=flat&amp;logo=react&amp;logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-3F3F46?style=flat&amp;logo=nextdotjs&amp;logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&amp;logo=typescript&amp;logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&amp;logo=javascript&amp;logoColor=black" />
+  <img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&amp;logo=redux&amp;logoColor=white" />
+  <img alt="React Query" src="https://img.shields.io/badge/React_Query-FF4154?style=flat&amp;logo=reactquery&amp;logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&amp;logo=tailwindcss&amp;logoColor=white" />
+  <img alt="Material UI" src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&amp;logo=mui&amp;logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&amp;logo=vite&amp;logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" />
 </p>
